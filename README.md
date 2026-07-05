@@ -11,7 +11,7 @@ conversational agents. Everything runs on your laptop.
 
 ## Why
 
-Current AI companion platforms (Character.AI, Replika, Talkie) forget who
+Current AI companion platforms forget who
 you are the moment a session ends. Existing memory research (Mem0,
 Letta / MemGPT, Zep) optimizes for *factual* recall — "what did the user say
 their job was" — and skips the relational half: how the user felt toward the
